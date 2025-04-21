@@ -1,3 +1,4 @@
+This project is intended for use with the RoboMaster EP Core, programmed with the developer SDK.
 Official SDK documentation: https://robomaster-dev.readthedocs.io/en/latest/
 Official manuals / product info + app download: https://www.dji.com/downloads/products/robomaster-ep-core#other
 
